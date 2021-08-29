@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sdntmn/pogoda/static/css/main.bb7a8c9c.chunk.css",
-    "main.js": "/sdntmn/pogoda/static/js/main.63551f0f.chunk.js",
-    "main.js.map": "/sdntmn/pogoda/static/js/main.63551f0f.chunk.js.map",
-    "runtime-main.js": "/sdntmn/pogoda/static/js/runtime-main.f4ad9425.js",
-    "runtime-main.js.map": "/sdntmn/pogoda/static/js/runtime-main.f4ad9425.js.map",
-    "static/css/2.818011ed.chunk.css": "/sdntmn/pogoda/static/css/2.818011ed.chunk.css",
-    "static/js/2.e35a64f0.chunk.js": "/sdntmn/pogoda/static/js/2.e35a64f0.chunk.js",
-    "static/js/2.e35a64f0.chunk.js.map": "/sdntmn/pogoda/static/js/2.e35a64f0.chunk.js.map",
-    "static/js/3.c6556dbd.chunk.js": "/sdntmn/pogoda/static/js/3.c6556dbd.chunk.js",
-    "static/js/3.c6556dbd.chunk.js.map": "/sdntmn/pogoda/static/js/3.c6556dbd.chunk.js.map",
-    "index.html": "/sdntmn/pogoda/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/sdntmn/pogoda/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.bb7a8c9c.chunk.css.map": "/sdntmn/pogoda/static/css/main.bb7a8c9c.chunk.css.map",
-    "static/js/2.e35a64f0.chunk.js.LICENSE.txt": "/sdntmn/pogoda/static/js/2.e35a64f0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/sdntmn/pogoda/static/media/polygon.5d16ae67.5d16ae67.jpg"
+    "main.css": "/static/css/main.4b96fa41.chunk.css",
+    "main.js": "/static/js/main.c900d84c.chunk.js",
+    "main.js.map": "/static/js/main.c900d84c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a975a752.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a975a752.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.d04d4cf8.chunk.js": "/static/js/2.d04d4cf8.chunk.js",
+    "static/js/2.d04d4cf8.chunk.js.map": "/static/js/2.d04d4cf8.chunk.js.map",
+    "static/js/3.c6556dbd.chunk.js": "/static/js/3.c6556dbd.chunk.js",
+    "static/js/3.c6556dbd.chunk.js.map": "/static/js/3.c6556dbd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.4b96fa41.chunk.css.map": "/static/css/main.4b96fa41.chunk.css.map",
+    "static/js/2.d04d4cf8.chunk.js.LICENSE.txt": "/static/js/2.d04d4cf8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/polygon.5d16ae67.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4ad9425.js",
-    "static/css/2.818011ed.chunk.css",
-    "static/js/2.e35a64f0.chunk.js",
-    "static/css/main.bb7a8c9c.chunk.css",
-    "static/js/main.63551f0f.chunk.js"
+    "static/js/runtime-main.a975a752.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.d04d4cf8.chunk.js",
+    "static/css/main.4b96fa41.chunk.css",
+    "static/js/main.c900d84c.chunk.js"
   ]
 }
